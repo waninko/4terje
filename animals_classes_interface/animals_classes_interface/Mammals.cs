@@ -18,14 +18,14 @@ namespace animals_classes_interface
 
         }
 
-        public void makeSound()
+        public string makeSound()
         {
-            Console.WriteLine($"I say {sound}! ");
+            return $"{sound}! ";
         }
         public virtual string BirthType()
         {
             return birth;
-            //Console.WriteLine("Live Birth");
+           
         }
     }
 }
