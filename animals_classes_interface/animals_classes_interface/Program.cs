@@ -15,12 +15,25 @@ namespace animals_classes_interface
             Console.WriteLine("1  - Mammal   2 - Amphibian  3 - Reptile  4 - Fish  5 - Bird");
            var userSelectedGroup = Console.ReadLine();
             if(userSelectedGroup == "1")
-            Console.WriteLine("You selected ", userSelectedGroup);
+            {
+            Console.WriteLine($"You selected {userSelectedGroup} wich is Mammal");
+            Console.WriteLine("please state Mammal name.");
+                var name =  Console.ReadLine();
+                Console.WriteLine("animal sound?");
+                var sound = Console.ReadLine();
+                Console.WriteLine("Is it born in a special way according to it's peers? Leave blank if not.");
+                var birth = Console.ReadLine();
+                var additionMammal = new Mammals(name, sound, birth);
+                Console.WriteLine("Press Enter to see your addition.");
+                Console.WriteLine($"{ additionMammal.name} { additionMammal.BirthType()} { additionMammal.makeSound()}");
+
+    
+            }
 
 
             //array of objects, names, sound and exclusive births etc - loop ut i cw's - fra userInputs?
-            Console.WriteLine(platypus.BirthType());
-            Console.WriteLine($"A zebra is born by: { zebra.BirthType()}, {zebra.Breathe()} and makes the sound {zebra.makeSound()}");
+            //Console.WriteLine(platypus.BirthType());
+            //Console.WriteLine($"A zebra is born by: { zebra.BirthType()}, {zebra.Breathe()} and makes the sound {zebra.makeSound()}");
         }
     }
 }

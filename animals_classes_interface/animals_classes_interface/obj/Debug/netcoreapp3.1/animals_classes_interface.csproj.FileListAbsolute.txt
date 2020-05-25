@@ -9,3 +9,16 @@ W:\Programming\gitHUB\C#\animals_classes_interface\animals_classes_interface\obj
 W:\Programming\gitHUB\C#\animals_classes_interface\animals_classes_interface\obj\Debug\netcoreapp3.1\animals_classes_interface.AssemblyInfo.cs
 W:\Programming\gitHUB\C#\animals_classes_interface\animals_classes_interface\obj\Debug\netcoreapp3.1\animals_classes_interface.dll
 W:\Programming\gitHUB\C#\animals_classes_interface\animals_classes_interface\obj\Debug\netcoreapp3.1\animals_classes_interface.pdb
+C:\Users\Linn Eidsten\Documents\GitHub\4terje\animals_classes_interface\animals_classes_interface\bin\Debug\netcoreapp3.1\animals_classes_interface.exe
+C:\Users\Linn Eidsten\Documents\GitHub\4terje\animals_classes_interface\animals_classes_interface\bin\Debug\netcoreapp3.1\animals_classes_interface.deps.json
+C:\Users\Linn Eidsten\Documents\GitHub\4terje\animals_classes_interface\animals_classes_interface\bin\Debug\netcoreapp3.1\animals_classes_interface.runtimeconfig.json
+C:\Users\Linn Eidsten\Documents\GitHub\4terje\animals_classes_interface\animals_classes_interface\bin\Debug\netcoreapp3.1\animals_classes_interface.runtimeconfig.dev.json
+C:\Users\Linn Eidsten\Documents\GitHub\4terje\animals_classes_interface\animals_classes_interface\bin\Debug\netcoreapp3.1\animals_classes_interface.dll
+C:\Users\Linn Eidsten\Documents\GitHub\4terje\animals_classes_interface\animals_classes_interface\bin\Debug\netcoreapp3.1\animals_classes_interface.pdb
+C:\Users\Linn Eidsten\Documents\GitHub\4terje\animals_classes_interface\animals_classes_interface\obj\Debug\netcoreapp3.1\animals_classes_interface.csprojAssemblyReference.cache
+C:\Users\Linn Eidsten\Documents\GitHub\4terje\animals_classes_interface\animals_classes_interface\obj\Debug\netcoreapp3.1\animals_classes_interface.AssemblyInfoInputs.cache
+C:\Users\Linn Eidsten\Documents\GitHub\4terje\animals_classes_interface\animals_classes_interface\obj\Debug\netcoreapp3.1\animals_classes_interface.AssemblyInfo.cs
+C:\Users\Linn Eidsten\Documents\GitHub\4terje\animals_classes_interface\animals_classes_interface\obj\Debug\netcoreapp3.1\animals_classes_interface.csproj.CoreCompileInputs.cache
+C:\Users\Linn Eidsten\Documents\GitHub\4terje\animals_classes_interface\animals_classes_interface\obj\Debug\netcoreapp3.1\animals_classes_interface.dll
+C:\Users\Linn Eidsten\Documents\GitHub\4terje\animals_classes_interface\animals_classes_interface\obj\Debug\netcoreapp3.1\animals_classes_interface.pdb
+C:\Users\Linn Eidsten\Documents\GitHub\4terje\animals_classes_interface\animals_classes_interface\obj\Debug\netcoreapp3.1\animals_classes_interface.genruntimeconfig.cache

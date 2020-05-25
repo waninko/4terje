@@ -8,27 +8,20 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Bird\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Linn Eidsten\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "W:\\Programming\\gitHUB\\C#\\animals_classes_interface\\animals_classes_interface\\animals_classes_interface.csproj",
+      "projectUniqueName": "C:\\Users\\Linn Eidsten\\Documents\\GitHub\\4terje\\animals_classes_interface\\animals_classes_interface\\animals_classes_interface.csproj",
       "projectName": "animals_classes_interface",
-      "projectPath": "W:\\Programming\\gitHUB\\C#\\animals_classes_interface\\animals_classes_interface\\animals_classes_interface.csproj",
-      "packagesPath": "C:\\Users\\Bird\\.nuget\\packages\\",
-      "outputPath": "W:\\Programming\\gitHUB\\C#\\animals_classes_interface\\animals_classes_interface\\obj\\",
+      "projectPath": "C:\\Users\\Linn Eidsten\\Documents\\GitHub\\4terje\\animals_classes_interface\\animals_classes_interface\\animals_classes_interface.csproj",
+      "packagesPath": "C:\\Users\\Linn Eidsten\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Linn Eidsten\\Documents\\GitHub\\4terje\\animals_classes_interface\\animals_classes_interface\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Bird\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Linn Eidsten\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -60,12 +53,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

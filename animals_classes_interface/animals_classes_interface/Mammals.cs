@@ -14,7 +14,11 @@ namespace animals_classes_interface
         {
             name = mammalName;
             sound = mammalSound;
+            if(mammalSpecialBirth != "")
+            {
             birth = mammalSpecialBirth;
+
+            }
 
         }
 
