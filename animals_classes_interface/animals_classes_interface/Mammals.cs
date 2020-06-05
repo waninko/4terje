@@ -4,7 +4,7 @@ using System.Text;
 
 namespace animals_classes_interface
 {
-    class Mammals : Vertibrate, IBirthType
+    public class Mammals : Vertibrate, IBirthType
     {
         public string name;
         public string sound;

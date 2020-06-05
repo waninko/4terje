@@ -4,7 +4,7 @@ using System.Text;
 
 namespace animals_classes_interface
 {
-    abstract class Vertibrate
+    public abstract class Vertibrate
     {
         bool hasSpine = true;
 

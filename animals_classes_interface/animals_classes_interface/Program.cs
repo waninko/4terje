@@ -2,9 +2,9 @@
 
 namespace animals_classes_interface
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             var platypus = new Mammals("platypus", "..quack?", "Born by eggs");
             var zebra = new Mammals("zebra", "woop-woop!");
@@ -13,6 +13,7 @@ namespace animals_classes_interface
             // 
             Console.WriteLine("Want to add an animal to the DB? Please select animal group...");
             Console.WriteLine("1  - Mammal   2 - Amphibian  3 - Reptile  4 - Fish  5 - Bird");
+
            var userSelectedGroup = Console.ReadLine();
             if(userSelectedGroup == "1")
             {

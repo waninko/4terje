@@ -1,0 +1,4 @@
+C:\Users\Linn Eidsten\Documents\GitHub\4terje\animals_classes_interface\Animals.Tests\obj\Debug\netcoreapp3.1\Animals.Tests.csprojAssemblyReference.cache
+C:\Users\Linn Eidsten\Documents\GitHub\4terje\animals_classes_interface\Animals.Tests\obj\Debug\netcoreapp3.1\Animals.Tests.AssemblyInfoInputs.cache
+C:\Users\Linn Eidsten\Documents\GitHub\4terje\animals_classes_interface\Animals.Tests\obj\Debug\netcoreapp3.1\Animals.Tests.AssemblyInfo.cs
+C:\Users\Linn Eidsten\Documents\GitHub\4terje\animals_classes_interface\Animals.Tests\obj\Debug\netcoreapp3.1\Animals.Tests.csproj.CoreCompileInputs.cache
