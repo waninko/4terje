@@ -6,18 +6,18 @@ namespace _13375p34kGEN
 {
     public class UserInputHandling
     {
-         string UserInput;
+         string userInput;
 
         public UserInputHandling(string inputFromConsole)
         {
-            UserInput = inputFromConsole;
+            userInput = inputFromConsole;
         }
 
         public bool UserInputRetrived()
         {
            
      
-            return UserInput != null;
+            return userInput != null;
 
             
         }
