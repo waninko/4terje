@@ -1,0 +1,13 @@
+C:\Users\Linn Eidsten\Documents\GitHub\4terje\13375p34kGEN\13375p34kGEN\bin\Debug\netcoreapp3.1\13375p34kGEN.exe
+C:\Users\Linn Eidsten\Documents\GitHub\4terje\13375p34kGEN\13375p34kGEN\bin\Debug\netcoreapp3.1\13375p34kGEN.deps.json
+C:\Users\Linn Eidsten\Documents\GitHub\4terje\13375p34kGEN\13375p34kGEN\bin\Debug\netcoreapp3.1\13375p34kGEN.runtimeconfig.json
+C:\Users\Linn Eidsten\Documents\GitHub\4terje\13375p34kGEN\13375p34kGEN\bin\Debug\netcoreapp3.1\13375p34kGEN.runtimeconfig.dev.json
+C:\Users\Linn Eidsten\Documents\GitHub\4terje\13375p34kGEN\13375p34kGEN\bin\Debug\netcoreapp3.1\13375p34kGEN.dll
+C:\Users\Linn Eidsten\Documents\GitHub\4terje\13375p34kGEN\13375p34kGEN\bin\Debug\netcoreapp3.1\13375p34kGEN.pdb
+C:\Users\Linn Eidsten\Documents\GitHub\4terje\13375p34kGEN\13375p34kGEN\obj\Debug\netcoreapp3.1\13375p34kGEN.csprojAssemblyReference.cache
+C:\Users\Linn Eidsten\Documents\GitHub\4terje\13375p34kGEN\13375p34kGEN\obj\Debug\netcoreapp3.1\13375p34kGEN.AssemblyInfoInputs.cache
+C:\Users\Linn Eidsten\Documents\GitHub\4terje\13375p34kGEN\13375p34kGEN\obj\Debug\netcoreapp3.1\13375p34kGEN.AssemblyInfo.cs
+C:\Users\Linn Eidsten\Documents\GitHub\4terje\13375p34kGEN\13375p34kGEN\obj\Debug\netcoreapp3.1\13375p34kGEN.csproj.CoreCompileInputs.cache
+C:\Users\Linn Eidsten\Documents\GitHub\4terje\13375p34kGEN\13375p34kGEN\obj\Debug\netcoreapp3.1\13375p34kGEN.dll
+C:\Users\Linn Eidsten\Documents\GitHub\4terje\13375p34kGEN\13375p34kGEN\obj\Debug\netcoreapp3.1\13375p34kGEN.pdb
+C:\Users\Linn Eidsten\Documents\GitHub\4terje\13375p34kGEN\13375p34kGEN\obj\Debug\netcoreapp3.1\13375p34kGEN.genruntimeconfig.cache
