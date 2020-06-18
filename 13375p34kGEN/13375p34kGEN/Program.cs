@@ -11,6 +11,9 @@ namespace _13375p34kGEN
             //handle user input - send to transalte class - get back translated
             Console.WriteLine("Hello! Please type in text to translate to 13375p34k.");
             var userinput = Console.ReadLine();
+            var handling = new UserInputHandling(userinput);
+            var output = handling.UserInputRetrived();
+            Console.WriteLine($"You wrote: {output} ");
         }
     }
 }

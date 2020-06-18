@@ -12,9 +12,9 @@ namespace _13375p34kGEN.tests
         [Test]
         public void userInputAcquired()
         {
-            var r = new UserInputHandling();
+            var r = new UserInputHandling("t");
            var result = r.UserInputRetrived();
-            Assert.AreEqual(true , result);
+            Assert.AreEqual("t", result);
         }
     }
 }
