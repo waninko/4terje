@@ -20,9 +20,27 @@ namespace _13375p34kGEN.tests
         [Test]
         public void doesItTranslate()
         {
-            var r = new TranslateUserInput("leet");
+            var r = new TranslateUserInput("leet af");
+            var result = r.makeLeet();
+            Assert.AreEqual("1337 4F", result);
+        }
+
+
+        //tall+symboler 
+        [Test]
+        public void doesItHandleSpecialSymbols()
+        {
+            var r = new TranslateUserInput("#leet#");
             var result = r.makeLeet();
             Assert.AreEqual("1337", result);
+        }
+
+        [Test]
+        public void doesItHandleNumbers()
+        {
+            var r = new TranslateUserInput("2leet4you");
+            var result = r.makeLeet();
+            Assert.AreEqual("1337Y0U", result);
         }
     }
 }
