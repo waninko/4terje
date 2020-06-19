@@ -42,5 +42,15 @@ namespace _13375p34kGEN.tests
             var result = r.makeLeet();
             Assert.AreEqual("1337Y0U", result);
         }
+
+
+        //noen ord kan byttes med tall!
+        //[Test]
+        //public void doesItNumberifyCertainWords()
+        //{
+        //    var r = new TranslateUserInput("too leet for you");
+        //    var result = r.makeLeet();
+        //    Assert.AreEqual("2 1337 4 Y0U", result);
+        //}
     }
 }
