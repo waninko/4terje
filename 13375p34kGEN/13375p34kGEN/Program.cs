@@ -12,7 +12,9 @@ namespace _13375p34kGEN
             Console.WriteLine("Hello! Please type in text to translate to 13375p34k.");
             var userinput = Console.ReadLine();
             var handling = new UserInputHandling(userinput);
-            var output = handling.UserInputRetrived();
+            var untranslated = handling.UserInputRetrived();
+            var translate = new TranslateUserInput(untranslated);
+            var output= "";
             Console.WriteLine($"You wrote: {output} ");
         }
     }

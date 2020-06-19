@@ -20,10 +20,7 @@ namespace _13375p34kGEN
                 return UserInput;
             }
             return "no input detected";
-     
-             
 
-            
         }
     }
 }
